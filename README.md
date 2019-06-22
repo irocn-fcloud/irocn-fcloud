@@ -4,7 +4,7 @@
 
 ![Preview](https://irocn.cn/static/media/uploads/fcloud/irocn-fcloud.png)
 
-Irocn provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. It allows the creation of multiple users and each user can have its own directory. It can be used as a standalone app or as a middleware.
+Irocn Fcloud provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files. It allows the creation of multiple users and each user can have its own directory. It can be used as a standalone app or as a middleware.
 
 ## Install
 
