@@ -19,7 +19,7 @@ linux:
 MacOS:
     ./irocnFcloud-Mac
 Windowns:
-	cmd下运行  irocnFcloud-Win
+    cmd下运行  irocnFcloud-Win
 ```
 
 ## Reference
