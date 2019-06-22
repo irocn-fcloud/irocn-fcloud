@@ -16,12 +16,12 @@ git clone https://github.com/irocn-fcloud/irocn-fcloud.git
 
 ```
 linux:
-    ./irocnFcloud-linux
+    $ ./irocnFcloud-linux
     
 MacOS:
-    ./irocnFcloud-Mac
+    $ ./irocnFcloud-Mac
 Windowns:
-    cmd下运行  irocnFcloud-Win
+    Running under cmd:  irocnFcloud-Win
 ```
 
 ## Reference
