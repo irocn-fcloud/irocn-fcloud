@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://irocn.cn/static/media/uploads/fcloud/logo.png" width="50"/>
-  <span>Irocn Fcloud</span>
+  <img src="https://irocn.cn/static/media/uploads/fcloud/logo.png" width="500"/>
 </p>
 
 ![Preview](https://irocn.cn/static/media/uploads/fcloud/irocn-fcloud.png)
@@ -14,7 +13,13 @@ git clone https://github.com/irocn-fcloud/irocn-fcloud.git
 ## Usage
 
 ```
-go run main.go
+linux:
+    ./irocnFcloud-linux
+    
+MacOS:
+    ./irocnFcloud-Mac
+Windowns:
+	cmd下运行  irocnFcloud-Win
 ```
 
 ## Reference

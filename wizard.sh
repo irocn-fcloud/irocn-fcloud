@@ -103,7 +103,7 @@ updateVersion () {
 buildBinary () {
   #echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>"
 #    export GOOS=windows
-#    export GOOS=darwin         #mac build
+    export GOOS=darwin         #mac build
 #    export GOARCH=mipsle
     #export GO111MODULE=on
   cd $REPO
